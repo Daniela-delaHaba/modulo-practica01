@@ -1,0 +1,19 @@
+.top-container {
+  display: flex;
+}
+
+.middle-container {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.bottom-container {
+  padding-top: 15px;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+}
